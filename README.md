@@ -1,4 +1,4 @@
-<h1>Hello :) , I'm Ishtiaque from Bangladesh.</h1>
+<h1>Hello :) , I'm Ishtiaque.</h1>
 ## Little about me:
 
 - I’m currently learning Data Analytics and Machine Learning.
