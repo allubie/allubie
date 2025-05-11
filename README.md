@@ -1,5 +1,5 @@
 <h1>Hello :) , I'm Ishtiaque.</h1>
-## Little about me:
+## Little about myself:
 
 - I’m currently learning Data Analytics and Machine Learning.
 - Studying BBA at University Of Barishal.
